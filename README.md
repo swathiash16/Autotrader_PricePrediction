@@ -1,6 +1,7 @@
 **AutoTrader Car Price Prediction**
 **Project Overview**
 This project involves processing and analyzing a dataset from AutoTrader to predict car prices. The dataset includes details about cars sold in 2021, focusing on cleaning the data, feature engineering, and building various regression models to predict car prices accurately.
+
 **Table of Contents**
 1.Introduction
 2.Data Processing
